@@ -1,0 +1,27 @@
+.container{
+    /* border: 1px solid black; */
+
+}
+.title{
+    background:url(../assets/images/Ads.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+}
+.left{
+    background:url(../assets/images/bg-image.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    width: 640px;
+    height: 360px;
+}
+.right{
+    background:url(../assets/images/right-image.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    width: 640px;
+    height: 360px;
+}
+
